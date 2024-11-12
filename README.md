@@ -6,7 +6,7 @@
 ただし、中身が実装されていません。
 実装して、ユニットテストが通るようにしてください。
 
-[![MS Build and Test](https://github.com/hashioto0517/comp2_3_unittest/actions/workflows/ms_test.yml/badge.svg)](https://github.com/hashioto0517/comp2_3_unittest/actions/workflows/ms_test.yml)
+[![MS Build and Test](https://github.com/hashimoto0517/comp2_3_unittest/actions/workflows/ms_test.yml/badge.svg)](https://github.com/hashimoto0517/comp2_3_unittest/actions/workflows/ms_test.yml)
 
 
 # 進め方
